@@ -4,7 +4,7 @@ body
 	margin: 0 auto;
 	padding: 0px;
 	background: silver;
-        wight: 100%
+        overflow-x: hidden;
 	
 }
 #inter1{
